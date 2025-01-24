@@ -1,4 +1,4 @@
-# android_kernel_oneplus_ace3v
+# Android Kernel OnePlus Ace 3V
 
 Custom kernel for OnePlus Ace 3V
 
