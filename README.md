@@ -2,6 +2,11 @@
 
 Custom kernel for OnePlus Ace 3V
 
+## Features
+
+- KernelSU.Next GKI kernel
+- SuSFS support
+
 ## License
 
 - Action: `Unknown`
